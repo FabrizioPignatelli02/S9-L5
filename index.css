@@ -7,7 +7,7 @@
 }
 
 #smartphone{
-    background-image: url("https://images.pexels.com/photos/40465/pexels-photo-40465.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-image: url("https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1600");
     background-repeat: no-repeat;
     object-fit: cover;
     background-position: center;
@@ -47,7 +47,7 @@
 .LogoSpan{
     border: 2px solid black;
     border-radius: 20px;
-    background-color: lightcyan;
+    background-color: white;
     display: flex;
     flex-direction: column;
 }
